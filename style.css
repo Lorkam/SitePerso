@@ -1,0 +1,25 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0 auto;
+}td, th{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}th{
+    background-color: #f2f2f2;
+}.affichageBDD{
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #ccc;
+    max-width: 70%;
+    text-align: center;
+}h1{
+    text-align: center;
+    margin: 20px;
+}.recherche{
+    text-align: center;
+    margin: 20px;
+}
